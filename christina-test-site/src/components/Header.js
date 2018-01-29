@@ -21,8 +21,8 @@ const Content = styled.div`
 `;
 
 const Avatar = styled.div`
-    height: 125px;
-    width: 125px;
+    height: 135px;
+    width: 225px;
     margin: 0 auto;
     image-rendering: -moz-crisp-edges;
     image-rendering: -o-crisp-edges;
@@ -30,7 +30,7 @@ const Avatar = styled.div`
     -ms-interpolation-mode: nearest-neighbor;
 
     img {
-        border-radius: 50%;
+        border-radius: 0%;
     }
 `;
 
@@ -44,6 +44,7 @@ const Location = styled.div`
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-top: 50px;
 `;
 
 const SocialMedia = styled.div`
