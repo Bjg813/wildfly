@@ -22,7 +22,7 @@ const Content = styled.div`
 
 const Avatar = styled.div`
     height: 135px;
-    width: 225px;
+    width: 200px;
     margin: 0 auto;
     image-rendering: -moz-crisp-edges;
     image-rendering: -o-crisp-edges;
@@ -44,7 +44,7 @@ const Location = styled.div`
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 50px;
+    margin-top: 2rem;
 `;
 
 const SocialMedia = styled.div`

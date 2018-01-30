@@ -4,7 +4,7 @@ import { injectGlobal } from 'styled-components';
 
 import SEO from '../components/SEO';
 import Footer from '../components/Footer';
-import favicon from './favicon.ico';
+import favicon from './feather-svg.svg';
 import config from '../../config/SiteConfig';
 import * as palette from '../../config/Style';
 
