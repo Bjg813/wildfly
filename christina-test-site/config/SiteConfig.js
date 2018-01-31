@@ -32,3 +32,4 @@ module.exports = {
   location: 'Northern California Portrait and Fine Art Photography',
 };
 
+
